@@ -1,29 +1,26 @@
-========================================================================
-    MAKEFILE PROJECT : Test Project Overview
-========================================================================
+# 3DS-Homebrew-Test-Example
+Template for those who want an example for 3DS Homebrew Development in Visual Studio 2015.
 
-AppWizard has created this Test project for you.  
+This is my own example for my tutorial Setup Environment for 3DS Homebrew in Visual Studio 2015:
 
-This file contains a summary of what you will find in each of the files that
-make up your Test project.
+http://gbatemp.net/threads/tutorial-setting-up-visual-studio-2015-environment-for-nintendo-3ds-homebrew-development.461083/
 
+Credits:
 
-Test.vcxproj
-    This is the main project file for VC++ projects generated using an Application Wizard. 
-    It contains information about the version of Visual C++ that generated the file, and 
-    information about the platforms, configurations, and project features selected with the
-    Application Wizard.
+- Smealum & Yellows8: Scene3DS and stuff, you know.
+- Xerpi: SF2D, SFTD, SFIL, Portlibs
+- Fincs: Citro3D
 
-Test.vcxproj.filters
-    This is the filters file for VC++ projects generated using an Application Wizard. 
-    It contains information about the association between the files in your project 
-    and the filters. This association is used in the IDE to show grouping of files with
-    similar extensions under a specific node (for e.g. ".cpp" files are associated with the
-    "Source Files" filter).
+This tutorial:
+- Manurocker95: Making this
 
-This project allows you to build/clean/rebuild from within Visual Studio by calling the commands you have input 
-in the wizard. The build command can be nmake or any other tool you use.
+Original tutorial:
 
-This project does not contain any files, so there are none displayed in Solution Explorer.
+- usagirei for the 3DS Visual Studio Template.
+- astronautlevel for sharing the 3DS VS Template.
+- nich, Al3x_10m, FenrirWol, mtheall, donttalkt, Hamcha, Plailect, and PokeAcer for solving programming issues.
+- Shadowhand and Miah_Molkot for encouragements and support.
+- Redy, Gelex, Tobago, MasterCheese, TricksterGuy for many other things.
+- DaGamer12345 for feedback and testing.
+- wedr2 for the original tutorial 
 
-/////////////////////////////////////////////////////////////////////////////
