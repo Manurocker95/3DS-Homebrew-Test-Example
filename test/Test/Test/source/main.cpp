@@ -16,12 +16,19 @@ typedef SSIZE_T ssize_t;
 #endif
 
 #include <3ds.h>
+#include <stdio.h>
 
 int main()
 {
 	// Initialize the services
 	gfxInitDefault();
 	consoleInit(GFX_TOP, NULL);
+
+	printf("This is a test example");
+
+	consoleInit(GFX_BOTTOM, NULL);
+	printf("Press Start to exit");
+
 
 	//Main loop
 	while (aptMainLoop())
